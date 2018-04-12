@@ -3,6 +3,7 @@
 //第一列輸入總共有幾個Case
 //下一列輸入兩個數字n、m，n為總共有幾個nodes，m為nodes之間有幾個interactions
 //接下來m列，每列會有三個數字node1、node2、length輸入，代表node1到node2的距離為length
+
 #include<iostream>
 using namespace std;
 
